@@ -1,3 +1,1 @@
-# ML_Practice
-# ML_Practice
-# ML_Practice
+This lists the journey of ML. I have been actively engaging to learn content about ML.
